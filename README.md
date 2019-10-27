@@ -9,7 +9,7 @@ This repository contains 2 websites:
 1. Snowy
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Snowy.png)<br/><br/><br/>
 2. Trekking
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20Trekking.png)<br/><br/><br/>
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20Trekking.png)
 
 ## Getting Started
 For each website you can find .rar version of it for easy downloading. Also, you can view the HTML code, CSS code and JS code in the files if you want.
