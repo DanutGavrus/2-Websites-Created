@@ -5,7 +5,7 @@ This repository contains 2 websites:
 -2. Trekking.
 ```
 
-## Visual Representations (Some Printscreens)
+## Visual Representation (Some Printscreens)
 1. Snowy
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Snowy.png)<br/><br/><br/>
 2. Trekking
