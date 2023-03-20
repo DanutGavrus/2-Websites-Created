@@ -1,15 +1,15 @@
 # Websites - HTML&CSS (and a little bit of JavaScript)
 This repository contains 2 websites:
 ```
--1. Snowy;
+-1. Snowy.
 -2. Trekking.
 ```
 
 ## Visual Representation (Some Printscreens)
-1. Snowy
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Snowy.png)<br/><br/><br/>
-2. Trekking
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20Trekking.png)
+###### 1. Snowy
+![Snowy](https://user-images.githubusercontent.com/56603839/226347696-413ceb87-7813-438a-b4f0-dd91307658c1.png)
+###### 2. Trekking
+![Trekking](https://user-images.githubusercontent.com/56603839/226347807-43821114-e081-45bb-aaad-dfa5ae3ebdcf.png)
 
 ## Getting Started
 For each website you can find .rar version of it for easy downloading. Also, you can view the HTML code, CSS code and JS code in the files if you want.
@@ -23,12 +23,7 @@ For both websites:
 4) That's it, you can now explore it and see if you like it.
 ```
 
-### Warning !
-```
-! If you can not extract the .rar, open a new terminal and write: sudo apt-get install unrar
-```
-
 ### Websites Were Built With
-* [HTML](https://www.google.com/search?q=html&oq=html&aqs=chrome.0.69i59l2j69i60l3j69i65.768j0j7&sourceid=chrome&ie=UTF-8)
-* [CSS](https://www.google.com/search?sxsrf=ACYBGNSz1WHUZbgp0l2NWNmRDcTBvcbCzQ%3A1572193551722&ei=D8W1XcjoK9GX8gKbtZigCA&q=css&oq=css&gs_l=psy-ab.3..35i39i19j35i39j0i67l8.6036.6267..6508...0.3..0.97.283.3......0....1..gws-wiz.......0i71j0j0i131.FUFupdOrTc4&ved=0ahUKEwiIrKyx7bzlAhXRi1wKHZsaBoQQ4dUDCAs&uact=5)
-* [JS](https://www.google.com/search?sxsrf=ACYBGNSoY_Yrnva28KoX8LqH1tYHuaxCNQ%3A1572193558889&ei=FsW1XZz1NdS78gKCvb2QBg&q=js&oq=js&gs_l=psy-ab.3..35i39j0i67l3j0j0i67l3j0l2.4015.4081..4206...0.2..0.101.199.1j1......0....1..gws-wiz.......0i71j0i131.YVyNReX0GcE&ved=0ahUKEwic2OG07bzlAhXUnVwKHYJeD2IQ4dUDCAs&uact=5)
+* HTML
+* CSS
+* JS(Javascript)
